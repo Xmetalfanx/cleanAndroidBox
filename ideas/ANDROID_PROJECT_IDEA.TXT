@@ -1,0 +1,32 @@
+REMEMBER THIS GUI APP WHICH IS WHY I "GAVE UP" OIN THIS IDEA: ( https://github.com/0x192/universal-android-debloater )
+HOWEVER making a script that at least checks for said malware ( https://github.com/DesktopECHO/T95-H616-Malware0 )
+
+
+IDEA 
+
+scripts to adb into android box on fresh format ... remove all the apps i remove at once ....maybe if i have wifi on (even if headless connected usb a to usb a) .. i can wget and install apks all in one go 
+
+
+function assignPackageNames() {
+    aptitude=""
+    netflix="com.netflix.mediaclient"
+    apkpure=""
+    kmplayer=""
+    amazonprime=""
+
+
+}
+
+
+
+--------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------
+
+# Steps 
+## Step 1 - install adb on pc 
+## Step 2 - connect usb-a to usb-a cable 
+## Step 3 - "adb shell" 
+
+

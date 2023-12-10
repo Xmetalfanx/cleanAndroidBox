@@ -1,0 +1,19 @@
+# Idea: put apks in repo and then i can just link to my own downloaded apks 
+
+install:
+    - wolf Launcher
+        - atv launcher (if its easier to get the URL for this)
+    - Kodi 19.5
+    - TubiTV
+    - PlutoTV
+    - Spotify For Android TV
+    - Pandora for Android TV
+    - Kanopy 
+    - Hoopla 
+    - Background app and process list 
+    - SmartTube 
+    - F-Droid
+        - * remember apks installed this way do not get updated via f-droid ... i think
+        - rethink
+        - aurora store
+        - superfreeze 

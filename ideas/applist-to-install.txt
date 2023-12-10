@@ -1,0 +1,17 @@
+
+----------------------------------------------------------------------------------
+# not sure if f-droid but i think it is 
+  <app name="Clock" package="com.simplemobiletools.clock" />
+
+----------------------------------------------------------------------------
+# https://github.com/mvdan/fdroidcl maybe better than apks for fdroid apps 
+# F-Droid apps
+  <app name="F-Droid" package="org.fdroid.fdroid" />
+  <app name="Aurora Store" package="com.aurora.store" />
+  <app name="My App List" package="com.projectsexception.myapplist.open" />
+  <app name="Fritter" package="com.jonjomckay.fritter" />
+  <app name="Rethink" package="com.celzero.bravedns" />
+  <app name="NewPipe" package="org.schabi.newpipe" />
+  <app name="SuperFreezZ" package="superfreeze.tool.android" />
+
+

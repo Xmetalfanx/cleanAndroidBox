@@ -1,0 +1,25 @@
+
+
+
+debloat-main "com.softwinner.TvdFileManager"
+
+debloat-main "com.ftest"
+debloat-main "com.ionitech.airscreen"
+debloat-main "com.charon.rocketfly"
+debloat-main "com.android.dynsystem"
+
+debloat-main "com.www.intallapp"
+debloat-main "com.www.productdeclare"
+debloat-main "com.android.deskclock"
+debloat-main "net.lightflash.wallpapersn"
+debloat-main "com.android.wallpaperbackup"
+
+
+
+
+adb shell rm -rf /data/data/org.xbmc.kodi
+adb shell rm -rf /data/data/com.www.intallapp
+adb shell rm -rf /data/data/com.www.productdeclare
+adb shell rm -rf /data/media/0/Android/data/com.adups.fota
+adb shell rm -rf /data/misc/profiles/ref/com.adups.fota
+adb shell rm -rf /data/misc/profiles/cur/0/com.adups.fota

@@ -19,8 +19,8 @@ This is intended to be a script for myself, making an intial setup (or post firm
 
 - Kodi 19.5 
   - I have had issues with 20.0, 20.1, 20.2 with playback randomly stopping, or Kodi crashing
-    - This is why i am sticking to this version for now
-- Smarttube
+    - This is why i am sticking to this version for nowSmarttube
+- [Smarttube](https://github.com/yuliskov/SmartTube)
 - Spotify for Android TV
 - MyRadar 4.30 (?? version)
 - Background App and Process List
@@ -30,9 +30,15 @@ This is intended to be a script for myself, making an intial setup (or post firm
 - I hear that if you install downloaded APKs from F-droid it will not give you notices on updates like the Aurora or Google Play Store would.  I have looked into say (forgot the name but it was a github page)
 
 - Apps from F-droid wanted, besides "F-Droid itself"
-  - Rethink Firewall
-  - SuperFreez
-  - 
+  - [Rethink Firewall](https://f-droid.org/en/packages/com.celzero.bravedns/)
+  - [SuperFreez App Stopper](https://f-droid.org/en/packages/superfreeze.tool.android/)
+  - [Droid-ify](https://github.com/Droid-ify/client)
+  - [Ad-Free for Spotify](https://f-droid.org/en/packages/ch.abertschi.adfree/)
+  - [Adaway](https://f-droid.org/en/packages/org.adaway/)
+    - ?? does this interfere with Rethink 
+  
+- Idea: [fdroidcl](https://github.com/mvdan/fdroidcl)
+  - I am not sure if apps installed this way still have the same issue or not with no getting update NOTIFICATIONS, however i can still adb in and update manually (remember to look into if i can blacklist kodi)
 
 ## Stage 5 - Restore Kodi settings
 
